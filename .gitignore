@@ -1,2 +1,3 @@
+# ignore python generated files
 *.pyc
 *.swp
